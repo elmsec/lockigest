@@ -2,8 +2,8 @@
 Lockigest is a very primitive, manipulative security software that sets a trap instead of locking your device screen immediately to protect it from strangers.
 
 ### Read more:
-- English: https://elma.dev/notes/lockigest/
-- Turkish: https://elma.dev/tr/notes/lockigest/
+- English: https://elma.dev/work/lockigest/
+- Turkish: https://elma.dev/tr/work/lockigest/
 
 ## Configuration
 These two lines of code are enough to set up your Lockigest:
